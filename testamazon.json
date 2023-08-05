@@ -1,0 +1,13 @@
+[
+   { "act":"amazon test",
+    "prompt":"you are amazon expert tell me how to drive amazon sales"
+  
+   },
+  {
+    "act":"amazon newtest",
+    "prompt":"i am novice amazon seller,tell me how to drive my sales"
+  }
+
+
+  
+]
