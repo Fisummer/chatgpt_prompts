@@ -1,9 +1,12 @@
 [
   {
-"act":"test",
-"prompt":"my name is fisummer"
-
-
-}
+    "cmd": "a",
+    "act": "aa",
+    "prompt": "aaa aaa aaa"
+  },
+  {
+    "cmd": "b",
+    "act": "bb",
+    "prompt": "bbb bbb bbb"
+  }
 ]
-
