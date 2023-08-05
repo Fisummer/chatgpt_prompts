@@ -1,0 +1,16 @@
+{
+	[
+"act":"amazon_bullet_points",
+"prompt":"Write 5 bullet points for an Amazon listing 
+Bullet point format:
+PRODUCT BENEFI=Detailed description
+,you should ask me for what product name and keywords "
+
+
+	]
+
+
+}
+
+
+
