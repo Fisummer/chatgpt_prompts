@@ -1,2 +1,4 @@
-"act","prompt"
-"fisummer","test","my name is fisummer"
+role,content
+user,Tell me a joke.
+assistant,Why don't scientists trust atoms? Because they make up everything!
+user,That's a good one! Do you know any more jokes?
