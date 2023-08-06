@@ -1,0 +1,11 @@
+[
+
+	{
+		"cmd":"test_hello",
+		"act":"knock knock hello",
+		"prompt":"this is hello message "
+	}
+
+
+
+]
